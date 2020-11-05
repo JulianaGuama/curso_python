@@ -12,7 +12,7 @@ Para ficar claro sobre a quantidade de _guidelines_ existentes em PEPs, vamos co
 
 Já se perguntou se devemos usar `tabulação` ou `espaço`? Já viu memes sobre isso?
 
-![img](images\tab_spaces_civil_war.jpg)
+![img](images/tab_spaces_civil_war.jpg)
 
 A [PEP 8](https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces) tem o "_guide_" para esse problema!
 
@@ -45,4 +45,4 @@ import this
 
 Não tente ensinar crianças a contar usando o index de Python. Abram a PEP 0 e procurem onde está a PEP 14, 15, 16, 17, 18, 19...
 
-![img](images\python_index.png)
+![img](images/python_index.png)
