@@ -1,8 +1,8 @@
 # Treinamento básico de Python - PyLadies -BH
 
-Este treinamento de Python foi desenvolvido pelas PyLadies BH para o evento 
+Este treinamento de Python foi desenvolvido pelas PyLadies BH inicialmente para o evento [IX SECOM](http://www.semanacomputacao.caf.ufv.br/).
 
-## O que você irá ver nesse material?
+## O que você irá ver nesse material
 
 [1- Intro](#1-intro)
 [2- Básico](#2-básico)
