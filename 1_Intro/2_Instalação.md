@@ -8,7 +8,7 @@ Atualmente Python está na versão 3.9.0 e você pode encontrar o executável da
 
 Para ~~facilitar~~ configurar corretamente, você ~~pode~~ **DEVE** marcar para add Python no PATH.
 
-![img](images\python_install.png)
+![img](images/python_install.png)
 
 * Fique atenta se seu computador está executando a versão 64bit ou 32bit e baixe o instalador compatível (arquivo executável).
 
