@@ -23,7 +23,9 @@ A [PEP 8](https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces) tem o "_guid
 
 Não! As PEPs cobrem descrições de pacotes, módulos, métodos e funções da **base de Python.**
 
-Um usuário interessado em melhoramento/funcionalidade nova detalha para a comunidade o que é este melhoramento/funcionalidade, como deve funcionar, uma prova de conceito, o que já foi tentado e funcionou ou não funcionou e até mesmo um código que faça essa implementação.
+Ou seja, se você propor uma nova funcionalidade que passa a fazer parte da **base de python** ou um novo pacote que é transformado em **pacote da base de python**, então será necessária uma PEP.
+
+Em outras palavras, a proposta de PEP irá detalhar para a comunidade o que é este melhoria/funcionalidade/pacote, uma prova de conceito, o que já foi tentado e funcionou ou não funcionou e até mesmo um código que faça essa implementação.
 
 A comunidade, por sua vez, avalia o paper e decide se ele procede ou não para fazer parte da linguagem. Se sim, o recurso novo é liberado nas próximas versões e uma PEP é liberada explicando a nova melhoramento/funcionalidade.
 

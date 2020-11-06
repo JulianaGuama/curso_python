@@ -44,3 +44,5 @@ Este treinamento de Python foi desenvolvido pelas PyLadies BH inicialmente para 
 * [instagram](https://www.instagram.com/pyladiesbh/)
 * [slack](https://slackin.pyladies.com)
 * [e-mail](bh@pyladies.com)
+
+Atenção: Se você é mulher e quer participar do chat das PyLadies, envie um e-mail para nós. :)
