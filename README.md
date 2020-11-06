@@ -5,21 +5,19 @@ Este treinamento de Python foi desenvolvido pelas PyLadies BH inicialmente para 
 ## O que você irá ver nesse material
 ### 1- Intro
 
-- [História de Python](1_Intro\1_História_de_Python.ipynb)
-- [Como instalar](1_Intro\2_Instalação.md)
-- [Sintaxe de Python](1_Intro\3_Sintaxe.ipynb)
-- [PEP - Python Enhancement Proposal](1_Intro\4_PEP.md)
-- [Bibliotecas Padrão de Python](1_Intro\5_Bibliotecas_padrão.ipynb)
+- [História de Python](1_Intro/1_História_de_Python.ipynb)
+- [Como instalar](1_Intro/2_Instalação.md)
+- [Sintaxe de Python](1_Intro/3_Sintaxe.ipynb)
+- [PEP - Python Enhancement Proposal](1_Intro/4_PEP.md)
+- [Bibliotecas Padrão de Python](1_Intro/5_Bibliotecas_padrão.ipynb)
 
 ### 2- Básico
 
-- [Variáveis](2_Básico\6_Variaveis.ipynb)
-  - [mutabilidade e imutabilidade](2_Básico\6_Variaveis.ipynb)
-  - métodos built in dos tipos e onde encontrar a documentação deles
-- [operadores e condicionais](2_Básico\7_Operadores.ipynb)
-- [controle de fluxo (loops)](2_Básico\7_Operadores.ipynb)
-- [comprehensions (list, dict)](2_Básico\7_Operadores.ipynb)
-- [tratamento de exceções](2_Básico\7_Operadores.ipynb)
+- [Variáveis](2_Básico/6_Variaveis.ipynb)
+- [Operadores e condicionais](2_Básico/7_Operadores.ipynb)
+- [Controle de fluxo (loops)](2_Básico/7_Operadores.ipynb)
+- [Comprehensions (list, dict)](2_Básico/7_Operadores.ipynb)
+- [Tratamento de exceções](2_Básico/7_Operadores.ipynb)
 
 ### 3- Manipulação de arquivos
 
@@ -35,9 +33,14 @@ Este treinamento de Python foi desenvolvido pelas PyLadies BH inicialmente para 
 
 ## Authors
 
-**PyLadies BH:**
-* [PyLadies BH]()
+**O conteúdo desse treinamento foi idealizado por:**
+* [Juliana Guamá](https://www.linkedin.com/in/juliana-guama/)
+* [Naiara Cerqueira](https://www.linkedin.com/in/naiaracerqueira/)
 
-**Editoras:**
-[Juliana Guamá](https://www.linkedin.com/in/juliana-guama/)
-[Naiara Cerqueira](https://www.linkedin.com/in/naiaracerqueira/)
+**PyLadies BH:**
+* [Meetup](https://www.meetup.com/pt-BR/PyLadies-BH-Meetup/)
+* [twitter](https://twitter.com/pyladiesbh)
+* [facebook](https://www.facebook.com/pyladiesbh/)
+* [instagram](https://www.instagram.com/pyladiesbh/)
+* [slack](https://slackin.pyladies.com)
+* [e-mail](bh@pyladies.com)
