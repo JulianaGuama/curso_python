@@ -15,9 +15,9 @@ Este treinamento de Python foi desenvolvido pelas PyLadies BH inicialmente para 
 
 - [Variáveis](2_Básico/6_Variaveis.ipynb)
 - [Operadores e condicionais](2_Básico/7_Operadores.ipynb)
-- [Controle de fluxo (loops)](2_Básico/7_Operadores.ipynb)
-- [Comprehensions (list, dict)](2_Básico/7_Operadores.ipynb)
-- [Tratamento de exceções](2_Básico/7_Operadores.ipynb)
+- [Controle de fluxo (loops)](2_Básico/8_Controle_fluxo.ipynb)
+- [Comprehensions (list, dict, set)](2_Básico/8_Controle_fluxo.ipynb)
+- [Tratamento de exceções](2_Básico/9_Tratamento_exceções.ipynb)
 
 ### 3- Manipulação de arquivos
 
