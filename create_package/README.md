@@ -38,14 +38,23 @@ Módulos podem conter instruções executáveis, funções, classes e estão con
 [O guia Hitchhiker's de Python](https://docs.python-guide.org/writing/structure/) sugere que seja usada uma estrutura simples e clara sobre organização do projeto.
 
 ├── docs
+
 │   └── config.py
+
 ├── example_pkg
+
 │   └── \_\_init\_\_.py
+
 ├── tests
+
 │   └── test_case.py
+
 ├── requirements.txt
+
 ├── setup.py
+
 ├── README.md
+
 └── LICENSE
 
 Se a estrutura oferecida pelo guia não agrada, a versão simplificada dessa proposta está na [documentação de Python](https://packaging.python.org/tutorials/packaging-projects/):
