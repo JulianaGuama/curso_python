@@ -37,6 +37,7 @@ Este treinamento de Python foi desenvolvido pelas PyLadies BH inicialmente para 
 **O conteúdo desse treinamento foi idealizado por:**
 * [Juliana Guamá](https://www.linkedin.com/in/juliana-guama/)
 * [Naiara Cerqueira](https://www.linkedin.com/in/naiaracerqueira/)
+* [Karine Cordeiro](https://www.linkedin.com/in/karinepfcordeiro/)
 
 **PyLadies BH:**
 * [Meetup](https://www.meetup.com/pt-BR/PyLadies-BH-Meetup/)
