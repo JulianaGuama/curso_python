@@ -191,6 +191,7 @@ Instale as dependências para gerar o pacote:
 
 ```shell
 python -m pip install -U --upgrade setuptools wheel
+python -m pip install -U --upgrade twine
 ```
 
 Agora gere o pacote:
@@ -199,4 +200,32 @@ Agora gere o pacote:
 python setup.py sdist bdist_wheel
 ```
 
+Agora é enviar o dist/* para o PyPI.
 
+```shell
+python -m twine upload dist/* -r
+```
+
+Você também pode passar seu usuário e senha no comando de upload.
+
+```shell
+python -m twine upload dist/* -r -u $USER -p $PASSWORD
+```
+
+### Instalando localmente seu pacote
+
+Vá até a pasta dist onde estão seus arquivos `.gz` e `.whl`
+
+```shell
+cd dist
+```
+
+Faça um pip install:
+
+```shell
+# windows install
+pip install my_package.-py3-none-any.whl
+
+# linux install
+pip install my_package.tar.gz
+```
