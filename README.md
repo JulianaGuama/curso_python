@@ -22,6 +22,7 @@ Este treinamento de Python foi desenvolvido pelas PyLadies BH inicialmente para 
 ### 3- Manipulação de arquivos
 
 - [Funções](3_Funções_files/10_Funções.ipynb)
+- [Funções built-in](3_Funções_files/10.2_Funções_built_in.ipynb)
 - [Classes](3_Funções_files/11_Classes.ipynb)
 - [Manipulações de arquivos](3_Funções_files/12_Files.ipynb)
 
