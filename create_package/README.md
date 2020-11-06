@@ -60,10 +60,15 @@ Módulos podem conter instruções executáveis, funções, classes e estão con
 Se a estrutura oferecida pelo guia não agrada, a versão simplificada dessa proposta está na [documentação de Python](https://packaging.python.org/tutorials/packaging-projects/):
 
 ├── LICENSE
+
 ├── README.md
+
 ├── example_pkg
+
 │   └── __init__.py
+
 ├── setup.py
+
 └── tests
 
 A pasta **example_pkg** geralmente é a pasta que você faz a importação:
@@ -83,7 +88,9 @@ A primeira coisa citada sobre documentar código é um comentário sobre Guido V
 Considere a seguinte estrutura:
 
 ├── example_pkg
+
 │   ├──  \_\_init__.py
+
 │   └── stuff.py
 
 ```python
