@@ -29,7 +29,7 @@ Este treinamento de Python foi desenvolvido pelas PyLadies BH inicialmente para 
 
 - [Pythonismo](https://github.com/JulianaGuama/python_sample_package)
 - [Primeiro pacote em python](https://github.com/JulianaGuama/python_sample_package)
-- [Upload to PyPI](4_Primeiro_pacote/9_upload_to_PyPI.md)
+- [Upload to PyPI](4_Primeiro_pacote/9_python_package.md)
 
 ## Authors
 
