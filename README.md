@@ -21,9 +21,9 @@ Este treinamento de Python foi desenvolvido pelas PyLadies BH inicialmente para 
 
 ### 3- Manipulação de arquivos
 
-- funções
-- classes
-- manipulações de arquivos
+- [Funções](3_Funções_files/10_Funções.ipynb)
+- [Classes](3_Funções_files/10_Funções.ipynb)
+- [Manipulações de arquivos](3_Funções_files/10_Funções.ipynb)
 
 ### 4- Primeiro pacote
 
